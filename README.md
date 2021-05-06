@@ -1,2 +1,2 @@
 # CNF
-Chomsky Normal Form
+Algorithm for conversion to Chomsky Normal Form (CNF)
