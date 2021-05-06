@@ -1,4 +1,4 @@
-# CNF
+# Conversion to CNF
 Algorithm for conversion to Chomsky Normal Form (CNF).
 
 In the code CNF.py the specified grammar is found in lines 28-32.
